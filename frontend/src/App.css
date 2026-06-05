@@ -1,0 +1,11 @@
+/* App wide styles can be added here if not covered in index.css */
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex: 1;
+  padding-top: 80px; /* Space for sticky navbar */
+}
