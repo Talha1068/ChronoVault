@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mujeeb Ahmad\\OneDrive - FAST National University\\Desktop\\final db project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD16DC5-299B-3A40-0D33-D1775D5BB247}|backend\\ChronoVault.Api.csproj|c:\\users\\mujeeb ahmad\\onedrive - fast national university\\desktop\\final db project\\backend\\services\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD16DC5-299B-3A40-0D33-D1775D5BB247}|backend\\ChronoVault.Api.csproj|solutionrelative:backend\\services\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD16DC5-299B-3A40-0D33-D1775D5BB247}|backend\\ChronoVault.Api.csproj|c:\\users\\mujeeb ahmad\\onedrive - fast national university\\desktop\\final db project\\backend\\data\\chronovaultdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD16DC5-299B-3A40-0D33-D1775D5BB247}|backend\\ChronoVault.Api.csproj|solutionrelative:backend\\data\\chronovaultdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD16DC5-299B-3A40-0D33-D1775D5BB247}|backend\\ChronoVault.Api.csproj|c:\\users\\mujeeb ahmad\\onedrive - fast national university\\desktop\\final db project\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD16DC5-299B-3A40-0D33-D1775D5BB247}|backend\\ChronoVault.Api.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChronoVaultDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mujeeb Ahmad\\OneDrive - FAST National University\\Desktop\\final db project\\backend\\Data\\ChronoVaultDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\Data\\ChronoVaultDbContext.cs",
+              "ToolTip": "C:\\Users\\Mujeeb Ahmad\\OneDrive - FAST National University\\Desktop\\final db project\\backend\\Data\\ChronoVaultDbContext.cs",
+              "RelativeToolTip": "backend\\Data\\ChronoVaultDbContext.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T05:17:24.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Mujeeb Ahmad\\OneDrive - FAST National University\\Desktop\\final db project\\backend\\Services\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\Users\\Mujeeb Ahmad\\OneDrive - FAST National University\\Desktop\\final db project\\backend\\Services\\DatabaseInitializer.cs",
+              "RelativeToolTip": "backend\\Services\\DatabaseInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAADJAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T05:06:58.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mujeeb Ahmad\\OneDrive - FAST National University\\Desktop\\final db project\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Mujeeb Ahmad\\OneDrive - FAST National University\\Desktop\\final db project\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T05:06:09.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

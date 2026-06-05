@@ -1,0 +1,6 @@
+@ChronoVault.Api_HostAddress = http://localhost:5064
+
+GET {{ChronoVault.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
